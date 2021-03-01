@@ -173,7 +173,7 @@ const stringsTable_t italianLanguage =
 .dmr_filter				   = "Filtro DMR",// MaxLen: 12 (with ':' + settings: "TG" or "Ct" or "RxG")
 .dmr_cc_filter			   = "Filtro CC", // MaxLen: 12 (with ':' + settings: .on or .off)
 .dmr_ts_filter			   = "Filtro TS", // MaxLen: 12 (with ':' + settings: .on or .off)
-.dtmf_contact_list			= "FM DTMF contacts", // Maxlen: 16
+.dtmf_contact_list			= "Contatti FM DTMF", // Maxlen: 16
 .channel_power				= "W Ch", //Displayed as "Ch Power:" + .from_master or "Ch Power:"+ power text e.g. "Power:500mW" . Max total length 16
 .from_master				= "di base",// Displayed if per-channel power is not enabled  the .channel_power
 .set_quickkey				= "Imposta tasti", // MaxLen: 16
@@ -191,7 +191,7 @@ const stringsTable_t italianLanguage =
 .vfo_freq_bind_mode			= "Abbina Freq.",
 .overwrite_qm				= "Sovrascrivi ?", //Maxlen: 14 chars
 .eco_level				= "Grado consumi",
-.buttons				= "Buttons"
+.buttons				= "Pulsanti"
 };
 /********************************************************************
  *
